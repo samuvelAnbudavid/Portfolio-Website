@@ -10,12 +10,12 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/samuvelAnbudavid/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/samuvelAnbudavid/Portfolio-Website?color=red&logo=github&style=for-the-badge)
 
 </div>
 
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Rahuljha4171](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
+You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [samuvelAnbudavid](https://github.com/samuvelAnbudavid/Portfolio-Website). Thanks in Advance😍!
 
 ## Built With
 
@@ -61,9 +61,9 @@ You will find all the components used and you can edit your information accordin
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/samuvelAnbudavid/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
+    <a href="https://github.com/samuvelAnbudavid/Portfolio-Website/issues">Request A Feature</a>
 
 </h3>
 

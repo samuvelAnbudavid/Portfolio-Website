@@ -26,7 +26,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="github"
-                href="https://github.com/Rahuljha4171"
+                href="https://github.com/samuvelAnbudavid"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="github"
@@ -38,7 +38,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="twitter"
-                href="https://twitter.com/Rahuljha4171"
+                href="https://twitter.com/samuvelAnbudavid"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="twitter"
@@ -50,7 +50,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="email"
-                href="mailto:rahuljha4171@outlook.com"
+                href="mailto:samuvelAnbudavid@outlook.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="email"
@@ -62,7 +62,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="https://www.linkedin.com/in/Rahuljha4171/"
+                href="https://www.linkedin.com/in/samuvelAnbudavid/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"
