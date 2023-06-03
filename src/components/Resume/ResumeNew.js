@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/samuvelAnbudavid/Portfolio-Website/e6b291bff052b42f38774a75f56161c640927ad6/src/Assets/SAMUVEL-resume.pdf";
+  "https://raw.githubusercontent.com/samuvelAnbudavid/resume/d53b68b4bd71ba9a4bdcd5600a22c665a8616083/SAMUVEL-resume%20.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://raw.githubusercontent.com/samuvelAnbudavid/Portfolio-Website/e6b291bff052b42f38774a75f56161c640927ad6/src/Assets/SAMUVEL-resume.pdf"
+            href="https://raw.githubusercontent.com/samuvelAnbudavid/resume/d53b68b4bd71ba9a4bdcd5600a22c665a8616083/SAMUVEL-resume%20.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -42,7 +42,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://raw.githubusercontent.com/samuvelAnbudavid/Portfolio-Website/e6b291bff052b42f38774a75f56161c640927ad6/src/Assets/SAMUVEL-resume.pdf"
+            href="https://raw.githubusercontent.com/samuvelAnbudavid/resume/d53b68b4bd71ba9a4bdcd5600a22c665a8616083/SAMUVEL-resume%20.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
