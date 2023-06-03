@@ -106,7 +106,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blog.rahuljha.tech/"
+                href="https://samuvel.hashnode.dev/"
                 target="_blank"
                 rel="noreferrer"
               >

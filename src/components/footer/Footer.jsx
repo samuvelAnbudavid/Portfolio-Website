@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
   AiOutlineMail,
 } from "react-icons/ai";
@@ -34,7 +33,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="twitter"
@@ -45,7 +44,7 @@ function Footer() {
               >
                 <AiOutlineTwitter />
               </a>
-            </li>
+            </li> */}
             <li className="social-icons">
               <a
                 style={{ color: `var(--clr-primary)` }}
@@ -62,7 +61,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="https://www.linkedin.com/in/samuvelAnbudavid/"
+                href="https://www.linkedin.com/in/samuvel-anbudavid-888325136/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"
@@ -74,7 +73,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://www.instagram.com/dead.programmer/"
+                href="https://www.instagram.com/sam.chrish/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"
