@@ -10,8 +10,6 @@ import {
 import {
   SiFirebase,
   SiNextdotjs,
-  // SiTailwindcss,
-  // SiRedux,
   SiMaterialui,
   SiLaravel
 } from "react-icons/si";
