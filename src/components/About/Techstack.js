@@ -10,7 +10,7 @@ import {
 import {
   SiFirebase,
   SiNextdotjs,
-  SiMaterialui,
+  SiRedux,
   SiLaravel
 } from "react-icons/si";
 
@@ -41,12 +41,12 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
-      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
-        <SiMaterialui />
+        <SiRedux />
       </Col>
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <SiMaterialui />
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <SiLaravel />
       </Col>
