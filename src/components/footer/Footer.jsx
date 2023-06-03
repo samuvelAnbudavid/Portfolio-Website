@@ -49,7 +49,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="email"
-                href="mailto:samuvelAnbudavid@outlook.com"
+                href="mailto:sam.a.bca@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="email"
