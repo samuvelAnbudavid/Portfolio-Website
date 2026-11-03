@@ -49,7 +49,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="email"
-                href="mailto:sam.a.bca@gmail.com"
+                href="mailto:samuvelanbudavids@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="email"
@@ -61,7 +61,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="https://www.linkedin.com/in/samuvel-anbudavid-888325136/"
+                href="https://www.linkedin.com/in/samuvel-anbu-david-888325136"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"

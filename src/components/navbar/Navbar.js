@@ -105,11 +105,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link
-                href="https://samuvel.hashnode.dev/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <Nav.Link as={Link} to="/blog" onClick={() => updateExpanded(false)}>
                 Blogs
               </Nav.Link>
             </Nav.Item>

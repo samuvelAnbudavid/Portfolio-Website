@@ -1,6 +1,6 @@
 {
-  "short_name": "Freelancer samuvel anbudavid",
-  "name": "Create  Sample",
+  "short_name": "Samuvel",
+  "name": "Samuvel Anbudavid | Senior Software Engineer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#07131d",
+  "background_color": "#07131d"
 }
